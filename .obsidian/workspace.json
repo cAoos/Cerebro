@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "262d016f8196613c",
+    "type": "split",
+    "children": [
+      {
+        "id": "846ffecabfb77d12",
+        "type": "tabs",
+        "dimension": 55.891719745222936,
+        "children": [
+          {
+            "id": "0d3b715e499a6cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Notas/🤖 Agentforce/💲 Agentforce Quoting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💲 Agentforce Quoting"
+            },
+            "group": "7db2b93afb61f920"
+          },
+          {
+            "id": "767584ff425eb1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Notas/🤖 Agentforce/🧾 Tipos de plantillas de Prompt Builder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧾 Tipos de plantillas de Prompt Builder"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14e7af4d84c1d4d7",
+        "type": "tabs",
+        "dimension": 44.10828025477707,
+        "children": [
+          {
+            "id": "0131d71c24eb7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "10 Notas/🤖 Agentforce/💲 Agentforce Quoting.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de 💲 Agentforce Quoting"
+            },
+            "group": "7db2b93afb61f920"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e46bb19b8f35794a",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ceb15674ed3544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e703422f74578d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "119065515937dd74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Employee Agent",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d68b949e645fb237",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecc2f1cb1c2c2550",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1e592af2c95545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1f040e4f0493f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "39b462804c42c67d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "0d0730ea57d4b874",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6868f6784eb4e948",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5b9c01c565559748",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "0d3b715e499a6cba",
+  "lastOpenFiles": [
+    "10 Notas/🤖 Agentforce/🏧 Agentes financieros en acción.md",
+    "10 Notas/🤖 Agentforce/🆘 Help Agent.md",
+    "10 Notas/🤖 Agentforce/🔲 Agentforce Grid.md",
+    "10 Notas/🤖 Agentforce/🛠️ Crear un Agentforce Grid paso a paso.md",
+    "10 Notas/🤖 Agentforce/🚀 Estrategia de despliegue de un agente.md",
+    "10 Notas/🤖 Agentforce/📦 Mover un agente a producción.md",
+    "10 Notas/🤖 Agentforce/🚚 Desplegar una plantilla de prompt a producción.md",
+    "10 Notas/🤖 Agentforce/🃏 Flashcards finales del examen Agentforce.md",
+    "10 Notas/🤖 Agentforce/💬 Desplegar un agente en Enhanced Web Chat.md",
+    "10 Notas/🤖 Agentforce/🛡️ Einstein Trust Layer.md",
+    "40 Proyectos/2026-10 Agentforce Specialist.md",
+    "10 Notas/🤖 Agentforce/💳 Agentforce for Financial Services.md",
+    "10 Notas/🤖 Agentforce/🤝 Intelligent Referral Management.md",
+    "10 Notas/🤖 Agentforce/🗓️ Meeting Concierge.md",
+    "10 Notas/🤖 Agentforce/🪪 Enhanced Client Detail Pages.md",
+    "10 Notas/🤖 Agentforce/☀️ Run My Day.md",
+    "10 Notas/🤖 Agentforce/🧑‍💼 Agentic Advisor.md",
+    "99 Adjuntos/advisor-financial-portfolio.jpg",
+    "99 Adjuntos/advisor-financial-portfolio.tmp",
+    "99 Adjuntos/advisor-client-pulse.jpg",
+    "99 Adjuntos/advisor-client-pulse.tmp",
+    "99 Adjuntos/advisor-concierge-post.jpg",
+    "99 Adjuntos/advisor-concierge-post.tmp",
+    "99 Adjuntos/advisor-concierge-in-session.jpg",
+    "99 Adjuntos/advisor-concierge-in-session.tmp",
+    "99 Adjuntos/advisor-concierge-pre.jpg",
+    "99 Adjuntos/advisor-concierge-pre.tmp",
+    "99 Adjuntos/advisor-top-priorities.jpg",
+    "99 Adjuntos/advisor-top-priorities.tmp",
+    "99 Adjuntos/advisor-run-my-day-calendario.jpg",
+    "99 Adjuntos/advisor-run-my-day-calendario.tmp",
+    "99 Adjuntos/advisor-run-my-day.jpg",
+    "99 Adjuntos/advisor-run-my-day.tmp",
+    "99 Adjuntos/advisor-referral-intake.jpg",
+    "99 Adjuntos/advisor-referral-intake.tmp",
+    "10 Notas/🤖 Agentforce/🏭 Agentforce for Industries.md",
+    "10 Notas/🤖 Agentforce/🧩 Skills de Agentforce for Financial Services.md",
+    "99 Adjuntos/fs-resumen-de-cuenta.jpg",
+    "99 Adjuntos/fs-analisis-de-metas.tmp",
+    "10 Notas/🤖 Agentforce/🧾 Tipos de plantillas de Prompt Builder.md",
+    "10 Notas/🤖 Agentforce/🏷️ Plantilla Field Generation.md",
+    "10 Notas/🤖 Agentforce/🔌 Opciones de LLM en Salesforce.md",
+    "10 Notas/🤖 Agentforce/🌡️ Temperatura y modelos custom.md",
+    "10 Notas/🤖 Agentforce/🗂️ Subagentes.md",
+    "00 Inbox/Secure and Trusted Headless Foundation.md",
+    "10 Notas/🤖 Agentforce/🎟️ Eligibility criteria de Service Assistant.md"
+  ]
+}
